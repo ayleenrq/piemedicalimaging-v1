@@ -27,7 +27,7 @@ export default function Home() {
         <section className="hero" style={{
           padding: '6rem 0 4rem',
           backgroundColor: '#fff',
-          backgroundImage: 'linear-gradient(rgba(230, 0, 0, 0.03) 1px, transparent 1px), linear-gradient(90deg, rgba(230, 0, 0, 0.03) 1px, transparent 1px)',
+          backgroundImage: 'linear-gradient(rgba(230, 0, 0, 0.06) 1px, transparent 1px), linear-gradient(90deg, rgba(230, 0, 0, 0.06) 1px, transparent 1px)',
           backgroundSize: '60px 60px',
           backgroundPosition: 'center center'
         }}>
